@@ -1,4 +1,4 @@
-# Sparkle Security Mission 0
+# Sparkle Security Mission 0: Opsec and setup
 
 This mission is intended to help you find and set up a vulnerable web
 application to play with.
@@ -28,7 +28,28 @@ https://github.com/terriko/sparklesecurity/blob/master/Mission0.md
 ![SECURITY RULES!](http://www.quickmeme.com/img/e0/e0ab7d30d57972802de828fe13459fb3bdac3b61496ea58988f6d4c038f32b9f.jpg "Security Rules!")
 
 That might seem like a big mouthful, but the important part of opsec right now
-is that we want to make sure that you and your computer stay safe while 
+is that we want to make sure that you and your computer stay safe while you
+work on building skills. The agents of Project PoopyPants are determined to
+derail your training so that Project Rainbow won't succeed!
+
+Remember, Agent Sparkle, that the code you are running will be vulnerable to
+people other than you.  That means Project PoopyPants agents could use this
+code to get to you.  Don't let that happen!
+
+1. Make sure other people don't gain access.
+	You don't want Project PoopyPants's agents to catch you while
+   you're learning.
+
+   FIXME: write something here about how to actually run code safely: firewalls, not on the internet
+
+2. Don't leave this code running when you're not using it.  This limits the
+window of opportunity for Project PoopyPants agents to find a way in.
+
+  FIXME: some specific advice here too
 
 # Aquiring the code
 
+We're going to start by using Google Gryere because Project Rainbow
+love cheese:
+
+https://google-gruyere.appspot.com/
