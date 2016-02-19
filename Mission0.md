@@ -92,9 +92,9 @@ brew install wget
 ### Install Gruyere
 
 1. In terminal type:
-```wget https://google-gruyere.appspot.com/gruyere-code.zip
-unzip gruyere-code
-python ./gruyere.py```
+```wget https://google-gruyere.appspot.com/gruyere-code.zip```
+```unzip gruyere-code```
+```python ./gruyere.py```
 2. Your terminal should say:
 ```Gruyere started...```
 ```http://127.0.0.1:8008/```
