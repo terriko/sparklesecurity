@@ -134,7 +134,7 @@ OR
 * Gruyer (Google project page): https://google-gruyere.appspot.com/
 
 ## You are ready to earn your Security Gems!
-![SECURITY GEMS!](https://www.google.com/search?tbs=simg%3Am00&tbnid=E41JDsgYIJuzAM%3A&docid=wGo4zzqOqaRqjM&tbm=isch&ved=0ahUKEwi3-5uB-oTLAhUDzGMKHeHrCm0QhxwICA "Security Gems!")
+![SECURITY GEMS!](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/2000px-Ruby_logo.svg.png "Security Gems!")
 
 ### Go on to [Mission 1](https://github.com/terriko/sparklesecurity/mission1.md)
 
