@@ -43,6 +43,8 @@ rainbows!
 We're using the cornify code as our payload, because it's already designed
 to help you add rainbows.  You can write your own code for this too, and you will in later missions, but this is mission 1 and Project Rainbow wants you to have some sparkling fun.
 
+![Cornifycorn](http://www.cornify.com/assets/cornifycorn.gif "Cornifycorn")
+
 The code that cornify uses looks like this:
 
 ```
