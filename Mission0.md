@@ -91,10 +91,18 @@ sudo apt-get install wget
 
 * In terminal type:
 ```
+mkdir gruyere-code
+
+cd gruyere-code 
+
 wget https://google-gruyere.appspot.com/gruyere-code.zip
 
 unzip gruyere-code
-
+```
+### Open a new tab before running Gruyere
+* Type CTRL + SHIFT + T to open a new Tab
+* In the old terminal tab type: 
+```
 python ./gruyere.py
 ```
 * Your terminal should say:
@@ -110,7 +118,6 @@ http://127.0.0.1:8008/###################/
 ### Open your vulnerable WebApp in a browser
 
 * Copy the url that looks like http://127.0.0.1:8008/###################/ from your terminal.
-* Type CTRL + SHIFT + T to open a new Tab
 * In new terminal tab, type:
 ```
 firefox http://127.0.0.1:8008/###################/'
@@ -171,6 +178,10 @@ brew install wget
 
 * In terminal type:
 ```
+mkdir gruyere-code
+
+cd gruyere-code
+
 wget https://google-gruyere.appspot.com/gruyere-code.zip
 
 unzip gruyere-code
