@@ -136,7 +136,7 @@ OR
 ## You are ready to earn your Security Gems!
 ![SECURITY GEMS!](http://www.clipartbest.com/cliparts/7ca/Knx/7caKnxMdi.png "Security Gems!")
 
-### Go on to [Mission 1](https://github.com/terriko/sparklesecurity/Mission1.md)
+### Go on to [Mission 1](https://github.com/terriko/sparklesecurity/blob/master/Mission1.md)
 
 
 
