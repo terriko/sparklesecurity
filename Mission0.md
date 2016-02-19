@@ -62,54 +62,37 @@ love cheese.
 
 ### Install Homebrew
 
-1. In terminal type: 
-```
-which brew
-```
+1. In terminal type: ```which brew```
 2. If you see a path like '/usr/local/bin/brew', then brew is installed on your system and you can skip the next step.
 3. If you see nothing when you type 'which brew' then copy and paste the following into a terminal:
-```
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-```
+```/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
 
 ### Install Python
 
 1. In terminal type: 
-```
-which python
-```
+```which python```
 2. If you see a path like '/usr/bin/python', then python is installed on your system and you can skip the next step.
 3. If you see nothing when you type 'which python' then copy and paste the following into a terminal:
-```
-brew install python
-```
+```brew install python```
 
 ### Install Wget
 
 1. In terminal type: 
-```
-which wget
-```
+```which wget```
 2. If you see a path like '/usr/local/bin/python', then wget is installed on your system and you can skip the next step.
 3. If you see nothing when you type 'which wget' then copy and paste the following into a terminal:
-```
-brew install wget
-```
+```brew install wget```
 
 ### Install Gruyere
 
 1. In terminal type:
-```
-wget https://google-gruyere.appspot.com/gruyere-code.zip
+```wget https://google-gruyere.appspot.com/gruyere-code.zip
 unzip gruyere-code
-python ./gruyere.py
-```
+python ./gruyere.py```
 2. Your terminal should say:
-```
-Gruyere started...
+```Gruyere started...
 http://127.0.0.1:8008/
-http://127.0.0.1:8008/###################/
-```
+http://127.0.0.1:8008/###################/```
 ⋅⋅* Where ################### is your unique ID.
 
 ### Open your vulnerable WebApp in a browser
@@ -117,9 +100,7 @@ http://127.0.0.1:8008/###################/
 1. Copy the url that looks like http://127.0.0.1:8008/###################/ from your terminal.
 2. Type COMMAND + T to open a new Tab
 3. In new terminal tab, type:
-```
-open http://127.0.0.1:8008/7041939091716429204/' 
-```
+```open http://127.0.0.1:8008/7041939091716429204/'```
 ⋅⋅* -OR-
 3. Copy & Paste the url into your web browser of choice
 
