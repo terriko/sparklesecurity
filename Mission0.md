@@ -63,33 +63,47 @@ love cheese.
 ### Install Homebrew
 
 1. In terminal type: 
+```
 which brew
+```
 If you see a path like '/usr/local/bin/brew', then brew is installed on your system and you can skip step 2.
 2. If you see nothing when you type 'which brew' then copy and paste the following into a terminal:
+```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
 
 ### Install Python
 
 1. In terminal type: 
+```
 which python
+```
 If you see a path like '/usr/bin/python', then python is installed on your system and you can skip step 2.
 2. If you see nothing when you type 'which python' then copy and paste the following into a terminal:
+```
 brew install python
+```
 
 ### Install Wget
 
 1. In terminal type: 
+```
 which wget
+```
 If you see a path like '/usr/local/bin/python', then wget is installed on your system and you can skip step 2.
 2. If you see nothing when you type 'which wget' then copy and paste the following into a terminal:
+```
 brew install wget
+```
 
 ### Install Gruyere
 
 1. In terminal type:
+```
 wget https://google-gruyere.appspot.com/gruyere-code.zip
 unzip gruyere-code
 python ./gruyere.py
+```
 2. Your terminal should say:
       Gruyere started...
           http://127.0.0.1:8008/
@@ -102,7 +116,9 @@ Where ################### is your unique ID.
 1. Copy the url that looks like http://127.0.0.1:8008/###################/ from your terminal.
 2. Type COMMAND + T to open a new Tab
 3. In new terminal tab, type:
+```
 open http://127.0.0.1:8008/7041939091716429204/' 
+```
 -OR-
 Copy & Paste the url into your web browser of choice
 
