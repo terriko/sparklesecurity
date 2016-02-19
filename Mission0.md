@@ -65,7 +65,9 @@ love cheese.
 1. In terminal type: ```which brew```
 2. If you see a path like '/usr/local/bin/brew', then brew is installed on your system and you can skip the next step.
 3. If you see nothing when you type 'which brew' then copy and paste the following into a terminal:
-```/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
+```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
 
 ### Install Python
 
@@ -73,7 +75,9 @@ love cheese.
 ```which python```
 2. If you see a path like '/usr/bin/python', then python is installed on your system and you can skip the next step.
 3. If you see nothing when you type 'which python' then copy and paste the following into a terminal:
-```brew install python```
+```
+brew install python
+```
 
 ### Install Wget
 
@@ -81,7 +85,9 @@ love cheese.
 ```which wget```
 2. If you see a path like '/usr/local/bin/python', then wget is installed on your system and you can skip the next step.
 3. If you see nothing when you type 'which wget' then copy and paste the following into a terminal:
-```brew install wget```
+```
+brew install wget
+```
 
 ### Install Gruyere
 
@@ -90,10 +96,11 @@ love cheese.
 unzip gruyere-code
 python ./gruyere.py```
 2. Your terminal should say:
-```Gruyere started...
-http://127.0.0.1:8008/
-http://127.0.0.1:8008/###################/```
-⋅⋅* Where ################### is your unique ID.
+```Gruyere started...```
+```http://127.0.0.1:8008/```
+```http://127.0.0.1:8008/###################/```
+
+Where ################### is your unique ID.
 
 ### Open your vulnerable WebApp in a browser
 
@@ -105,12 +112,11 @@ http://127.0.0.1:8008/###################/```
 3. Copy & Paste the url into your web browser of choice
 
 ### You are ready to earn your Security Gems!
-# Go on to [Mission 1]: https://github.com/terriko/sparklesecurity/mission1.md
+### Go on to [Mission 1]: https://github.com/terriko/sparklesecurity/mission1.md
 
 ## Resources
-
-HomeBrew (packagemanager for Mac OS X)http://brew.sh
-https://google-gruyere.appspot.com/
+..* HomeBrew (packagemanager for Mac OS X): http://brew.sh
+..* Gruyer (Google project page): https://google-gruyere.appspot.com/
 
 
 
