@@ -63,7 +63,9 @@ love cheese.
 ### Install Homebrew
 
 1. In terminal type: 
-```which brew```
+```
+which brew
+```
 2. If you see a path like '/usr/local/bin/brew', then brew is installed on your system and you can skip the next step.
 3. If you see nothing when you type 'which brew' then copy and paste the following into a terminal:
 ```
