@@ -47,7 +47,7 @@ window of opportunity for Project PoopyPants agents to find a way in.
 # Aquiring the code
 
 We're going to start by using Google Gryere because Project Rainbow
-love cheese.
+loves cheese.
 
 ## For Windows
 
@@ -129,9 +129,8 @@ OR
 
 * Copy & Paste the url into your web browser of choice
 
-#### You are ready to earn your Security Gems!
-#### Go on to 
-[Mission 1](https://github.com/terriko/sparklesecurity/mission1.md)
+### You are ready to earn your Security Gems!
+### Go on to [Mission 1](https://github.com/terriko/sparklesecurity/mission1.md)
 
 ### Resources
 * HomeBrew (packagemanager for Mac OS X): http://brew.sh
