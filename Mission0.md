@@ -129,12 +129,14 @@ OR
 
 * Copy & Paste the url into your web browser of choice
 
-### You are ready to earn your Security Gems!
-### Go on to [Mission 1](https://github.com/terriko/sparklesecurity/mission1.md)
-
 ### Resources
 * HomeBrew (packagemanager for Mac OS X): http://brew.sh
 * Gruyer (Google project page): https://google-gruyere.appspot.com/
+
+## You are ready to earn your Security Gems!
+![SECURITY GEMS!](https://www.google.com/search?tbs=simg%3Am00&tbnid=E41JDsgYIJuzAM%3A&docid=wGo4zzqOqaRqjM&tbm=isch&ved=0ahUKEwi3-5uB-oTLAhUDzGMKHeHrCm0QhxwICA "Security Gems!")
+
+### Go on to [Mission 1](https://github.com/terriko/sparklesecurity/mission1.md)
 
 
 
