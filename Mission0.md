@@ -23,6 +23,9 @@ selected measures that eliminate or reduce adversary exploitation of friendly
 critical information."
 
 FIXME: opesecanimals meme photo here, perhaps?
+https://github.com/terriko/sparklesecurity/blob/master/Mission0.md
+
+![SECURITY RULES!](http://www.quickmeme.com/img/e0/e0ab7d30d57972802de828fe13459fb3bdac3b61496ea58988f6d4c038f32b9f.jpg "Security Rules!")
 
 That might seem like a big mouthful, but the important part of opsec right now
 is that we want to make sure that you and your computer stay safe while 
