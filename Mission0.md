@@ -130,7 +130,8 @@ OR
 * Copy & Paste the url into your web browser of choice
 
 #### You are ready to earn your Security Gems!
-#### Go on to [Mission 1]: https://github.com/terriko/sparklesecurity/mission1.md
+#### Go on to 
+[Mission 1](https://github.com/terriko/sparklesecurity/mission1.md)
 
 ### Resources
 * HomeBrew (packagemanager for Mac OS X): http://brew.sh
