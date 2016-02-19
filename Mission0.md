@@ -66,7 +66,7 @@ love cheese.
 ```
 which brew
 ```
-If you see a path like '/usr/local/bin/brew', then brew is installed on your system and you can skip step 2.
+If you see a path like '/usr/local/bin/brew', then brew is installed on your system and you can skip the next step.
 2. If you see nothing when you type 'which brew' then copy and paste the following into a terminal:
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -79,7 +79,6 @@ If you see a path like '/usr/local/bin/brew', then brew is installed on your sys
 which python
 ```
 If you see a path like '/usr/bin/python', then python is installed on your system and you can skip the next step.
-
 2. If you see nothing when you type 'which python' then copy and paste the following into a terminal:
 ```
 brew install python
@@ -92,7 +91,6 @@ brew install python
 which wget
 ```
 If you see a path like '/usr/local/bin/python', then wget is installed on your system and you can skip the next step.
-
 2. If you see nothing when you type 'which wget' then copy and paste the following into a terminal:
 ```
 brew install wget
