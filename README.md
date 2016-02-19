@@ -17,7 +17,9 @@ Google Gryere: https://google-gruyere.appspot.com/
 ## Missions
 
 [Mission 0](https://github.com/terriko/sparklesecurity/Mission0.md)
+
 [Mission 1](https://github.com/terriko/sparklesecurity/Mission1.md)
+
 [Mission 2](https://github.com/terriko/sparklesecurity/Mission2.md)
 
 
