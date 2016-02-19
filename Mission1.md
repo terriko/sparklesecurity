@@ -64,7 +64,7 @@ But if you do that on your local machine (i.e. replace
 google-gruyere.appspot.com with 127.0.0.1:8008 ) you'll find that actually
 turns off gruyere.  This doesn't help with your mission, although it does help
 with your opsec because it means that it's much harder for Project PoopyPants
-to try to attack your server if it turns off when they guess wrong.
+to try to attack the gruyere server if it turns off when they guess wrong.
 
 When you start gruyere, it'll give you your magic number:
 
@@ -72,4 +72,30 @@ When you start gruyere, it'll give you your magic number:
 >          http://127.0.0.1:8008/
 >          http://127.0.0.1:8008/1414730337772092309/
 
-Only your number will be different.
+The number you get will be different and specific to your gruyere server.
+
+So go to the url with the number in it (or go to http://127.0.0.1:8008/ and it'll add the number on the end for you) and you should get your gruyere server.  All good.
+
+But as the hint says, what happens if you add random things onto the end?
+
+Try putting "hi" at the end of that url, and you'll notice that it shows up in
+the web page.  This is when you should be excited, Agent Sparkle! If the web
+page displays something you added into it, there's a chance that it might be
+possible to inject a payload.
+
+Think about this a bit: every blog post, every comment field, many search
+boxes... the world could be your oyster, Agent Sparkle!  There are a lot of
+places on the web that could be vulnerable.  Remember that it's best to get
+permission before you experiment on anyone else's system, though.
+
+Anyhow, back to your copy of gruyere, which you're totally allowed to exploit.
+So, if we can put in "hi" to the page, what happens if we put in other things? Play around a bit and see what works!
+
+Once you're done experimenting, it's time to bring out your rainbow payload.  You're going to need to cut and paste the whole thing into the url bar in place of "hi" and then hit enter.  What happens?
+
+Ideally, Agent Sparkle, you'll see the "Invalid request: /" and then you'll see the cornify button.  (You might need to turn on JavaScript if you have it turned off.)
+
+## And now, the sparkles!
+
+Click that cornify button a few times and watch the rainbows and sparkles decorate the gruyere page!
+
