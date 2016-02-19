@@ -125,12 +125,12 @@ http://127.0.0.1:8008/###################/
 open http://127.0.0.1:8008/7041939091716429204/'
 ```
 
-- OR -
+OR 
 
 * Copy & Paste the url into your web browser of choice
 
-### You are ready to earn your Security Gems!
-### Go on to [Mission 1]: https://github.com/terriko/sparklesecurity/mission1.md
+#### You are ready to earn your Security Gems!
+#### Go on to [Mission 1]: https://github.com/terriko/sparklesecurity/mission1.md
 
 ### Resources
 * HomeBrew (packagemanager for Mac OS X): http://brew.sh
