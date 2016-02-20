@@ -51,6 +51,8 @@ loves cheese.
 
 ## For Windows
 
+FIXME: FIX YOU
+
 ## For Linux Ubuntu
 ### Open a Terminal
 
