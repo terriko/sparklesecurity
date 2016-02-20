@@ -77,6 +77,8 @@ the web page.  This is when you should be excited, Agent Sparkle! If the web
 page displays something you added into it, there's a chance that it might be
 possible to inject a payload.
 
+![Hi in your webpage](Mission1-hi.png "Hi in your webpage")
+
 Think about this a bit: every blog post, every comment field, many search
 boxes... the world could be your oyster, Agent Sparkle!  There are a lot of
 places on the web that could be vulnerable.  Remember that it's best to get
@@ -92,4 +94,6 @@ Ideally, Agent Sparkle, you'll see the "Invalid request: /" and then you'll see 
 ## And now, the sparkles!
 
 Click that cornify button a few times and watch the rainbows and sparkles decorate the gruyere page!
+
+![Cornified Gruyere](Mission1-cornified.png "Cornified Gruyere")
 
