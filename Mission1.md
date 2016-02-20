@@ -59,16 +59,8 @@ Agent Sparkle, if you want a big challenge, you can work on some reconnaissance 
 
 Probably, though, you're doing mission one and you'd like a bit more help than just "there's a hole here."  So let's talk about how to find this one!
 
-The Gruyere tutorial has a hint:
->  What does this code do? http://google-gruyere.appspot.com/123/invalid
 
-But if you do that on your local machine (i.e. replace
-google-gruyere.appspot.com with 127.0.0.1:8008 ) you'll find that actually
-turns off gruyere.  This doesn't help with your mission, although it does help
-with your opsec because it means that it's much harder for Project PoopyPants
-to try to attack the gruyere server if it turns off when they guess wrong.
-
-When you start gruyere, it'll give you your magic number:
+When you start gruyere, it'll give you your magic number. See [Mission 0](https://github.com/terriko/sparklesecurity/blob/master/Mission0.md):
 
 >      Gruyere started...
 >          http://127.0.0.1:8008/
@@ -78,7 +70,7 @@ The number you get will be different and specific to your gruyere server.
 
 So go to the url with the number in it (or go to http://127.0.0.1:8008/ and it'll add the number on the end for you) and you should get your gruyere server.  All good.
 
-But as the hint says, what happens if you add random things onto the end?
+What happens if you add random things onto the end of the url?
 
 Try putting "hi" at the end of that url, and you'll notice that it shows up in
 the web page.  This is when you should be excited, Agent Sparkle! If the web
@@ -90,7 +82,7 @@ boxes... the world could be your oyster, Agent Sparkle!  There are a lot of
 places on the web that could be vulnerable.  Remember that it's best to get
 permission before you experiment on anyone else's system, though.
 
-Anyhow, back to your copy of gruyere, which you're totally allowed to exploit.
+Anyhow, back to your copy of Gruyere, which you're totally allowed to exploit.
 So, if we can put in "hi" to the page, what happens if we put in other things? Play around a bit and see what works!
 
 Once you're done experimenting, it's time to bring out your rainbow payload.  You're going to need to cut and paste the whole thing into the url bar in place of "hi" and then hit enter.  What happens?

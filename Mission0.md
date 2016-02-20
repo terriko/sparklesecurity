@@ -89,7 +89,7 @@ which wget
 sudo apt-get install wget
 ```
 
-### Install Gruyere
+### Install Gruyere and Get Your Magic Number
 
 * In terminal type:
 ```
@@ -115,7 +115,7 @@ http://127.0.0.1:8008/
 
 http://127.0.0.1:8008/###################/
 ```
-* Where ################### is your unique ID.
+* Where ################### is your Magic Number.
 
 ### Open your vulnerable WebApp in a browser
 
@@ -176,7 +176,7 @@ which wget
 brew install wget
 ```
 
-### Install Gruyere
+### Install Gruyere and Get Your Magic Number
 
 * In terminal type:
 ```
@@ -198,7 +198,7 @@ http://127.0.0.1:8008/
 
 http://127.0.0.1:8008/###################/
 ```
-* Where ################### is your unique ID.
+* Where ################### is your Magic Number.
 
 ### Open your vulnerable WebApp in a browser
 
