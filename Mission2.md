@@ -1,12 +1,12 @@
 # Sparkle Security Mission 2: File Upload XSS
 
-This mission demostrates another type of cross-site scripting
+This mission demonstrates another type of cross-site scripting
 vulnerability.
 
 # Introduction
 
 Agent Sparkle, the agents of Project PoopyPants have yet another kind
-of XSS vulnerability in their web application.  This lets use their
+of XSS vulnerability in their web application.  This lets us use their
 web application to post our messages to other agents.
 
 # Our Payload
