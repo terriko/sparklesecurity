@@ -44,9 +44,9 @@ window of opportunity for Project PoopyPants agents to find a way in.
 
   FIXME: some specific advice here too
 
-# Aquiring the code
+# Acquiring the code
 
-We're going to start by using Google Gryere because Project Rainbow
+We're going to start by using Google Gruyere because Project Rainbow
 loves cheese.
 
 ## For Windows
@@ -131,7 +131,7 @@ OR
 
 ### Resources
 * HomeBrew (packagemanager for Mac OS X): http://brew.sh
-* Gruyer (Google project page): https://google-gruyere.appspot.com/
+* Gruyere (Google project page): https://google-gruyere.appspot.com/
 
 ## For Mac OS X
 
@@ -215,7 +215,7 @@ OR
 
 ### Resources
 * HomeBrew (packagemanager for Mac OS X): http://brew.sh
-* Gruyer (Google project page): https://google-gruyere.appspot.com/
+* Gruyere (Google project page): https://google-gruyere.appspot.com/
 
 ## You are ready to earn your Security Gems!
 ![SECURITY GEMS!](http://www.clipartbest.com/cliparts/7ca/Knx/7caKnxMdi.png "Security Gems!")
