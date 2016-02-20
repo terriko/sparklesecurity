@@ -73,11 +73,16 @@ So go to the url with the number in it (or go to http://127.0.0.1:8008/ and it'l
 What happens if you add random things onto the end of the url?
 
 Try putting "hi" at the end of that url, and you'll notice that it shows up in
-the web page.  This is when you should be excited, Agent Sparkle! If the web
+the web page.  If it did not work for you, make sure Safari or your browser of 
+choice did not change the url. It must start with http:// not wwww. 
+
+This is when you should be excited, Agent Sparkle! If the web
 page displays something you added into it, there's a chance that it might be
 possible to inject a payload.
 
 ![Hi in your webpage](Mission1-hi.png "Hi in your webpage")
+
+
 
 Think about this a bit: every blog post, every comment field, many search
 boxes... the world could be your oyster, Agent Sparkle!  There are a lot of
@@ -89,6 +94,15 @@ So, if we can put in "hi" to the page, what happens if we put in other things? P
 
 Once you're done experimenting, it's time to bring out your rainbow payload.  You're going to need to cut and paste the whole thing into the url bar in place of "hi" and then hit enter.  What happens?
 
+Here is the code again (this is a long line so scroll sideways and copy it all):
+
+```
+<a href="http://www.cornify.com" onclick="cornify_add();return false;"><img src="http://www.cornify.com/assets/cornify.gif" width="61" height="16" border="0" alt="Cornify" /></a><script type="text/javascript" src="http://www.cornify.com/js/cornify.js"></script>
+```
+
+If it did not work for you, make sure Safari or your browser of 
+choice did not change the url. It must start with http:// not wwww. 
+
 Ideally, Agent Sparkle, you'll see the "Invalid request: /" and then you'll see the cornify button.  (You might need to turn on JavaScript if you have it turned off.)
 
 ## And now, the sparkles!
@@ -96,4 +110,9 @@ Ideally, Agent Sparkle, you'll see the "Invalid request: /" and then you'll see 
 Click that cornify button a few times and watch the rainbows and sparkles decorate the gruyere page!
 
 ![Cornified Gruyere](Mission1-cornified.png "Cornified Gruyere")
+
+
+### Go on to [Mission 2](https://github.com/terriko/sparklesecurity/blob/master/Mission2.md)
+
+
 
