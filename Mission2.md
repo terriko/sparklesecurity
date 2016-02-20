@@ -12,7 +12,7 @@ web application to post our messages to other agents.
 # Our Payload
 
 Our payload is an HTML file (the markup language that forms web pages)
-that renders our message in browsers.  Cut and paste this into file_upload_xss.html:
+that renders our message in browsers.  Cut and paste this into [file_upload_xss.html](https://raw.githubusercontent.com/terriko/sparklesecurity/master/file_upload_xss.html):
 ```
 <html>
 <head>
@@ -119,6 +119,7 @@ host our message.
 # Post Your Message
 
 1.  Open http://127.0.0.1:8008/###################/upload.gtl
+ Remember to replace ################### with your magic number.
 2.  Upload the file_upload_xss.html file created above
 3.  Visit the url that it returns and see the message
 
