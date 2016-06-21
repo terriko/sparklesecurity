@@ -37,12 +37,13 @@ code to get to you.  Don't let that happen!
 	You don't want Project PoopyPants's agents to catch you while
    you're learning.
 
-   FIXME: write something here about how to actually run code safely: firewalls, not on the internet
+	Gruyere already has some built in protections: it only accepts local input and it has a "magic" url that would be hard for a dangerous agent to guess. But you, Agent Sparkle, can supplement this with other ways to keep PoopyPants out: the easiest way is to just disconnect from the internet when you're using Gruyere.  There's also lots of technologies to help you run unsafe code more safely: you might want to search for "firewalls" or "sandboxing" if you want to start learning about those.
 
 2. Don't leave this code running when you're not using it.  This limits the
 window of opportunity for Project PoopyPants agents to find a way in.
 
-  FIXME: some specific advice here too
+	It's often good to use many layers of security: think of it like a car.  You wear your seatbelt, but cars also have crumple zones and air bags to help protect you.  This is often called "defense in depth" and it's too big a topic for today, but remember that it's worth using more than one way to keep yourself safe!
+
 
 # Acquiring the code
 
@@ -50,8 +51,33 @@ We're going to start by using Google Gruyere because Project Rainbow
 loves cheese.
 
 ## For Windows
+### Get Python
+If you don't already have a copy of Python on your Windows machine, you can download one here:
 
-FIXME: FIX YOU
+(https://www.python.org/downloads/windows/)
+
+Gruyere has been better tested on Python 2.7 so that is probably the choice of lease resistence.
+
+### Get Gruyere
+
+You can download gruyere using your web browser: (https://google-gruyere.appspot.com/gruyere-code.zip)
+
+Unzip the file into an appropriate directory, and run the "gruyere.py" script. Not sure how to do that?  [Here's a tutorial on running a python script](http://pythoncentral.io/execute-python-script-file-shell/). It includes windows instructions at the top of the page.
+
+Your terminal should say
+```
+Gruyere started...
+
+http://127.0.0.1:8008/
+
+http://127.0.0.1:8008/###################/
+```
+* Where ################### is your Magic Number.
+
+### Open your vulnerable WebApp in a browser
+
+* Copy the url that looks like http://127.0.0.1:8008/###################/ from your terminal.
+* Open up that vulnerable WebApp in the browser of your choice.
 
 ## For Linux Ubuntu
 ### Open a Terminal
