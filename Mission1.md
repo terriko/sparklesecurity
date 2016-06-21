@@ -74,7 +74,7 @@ What happens if you add random things onto the end of the url?
 
 Try putting "hi" at the end of that url, and you'll notice that it shows up in
 the web page.  If it did not work for you, make sure Safari or your browser of 
-choice did not change the url. It must start with http:// not wwww. 
+choice did not change the url. It must start with http:// not www. 
 
 This is when you should be excited, Agent Sparkle! If the web
 page displays something you added into it, there's a chance that it might be
