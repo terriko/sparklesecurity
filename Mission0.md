@@ -56,7 +56,7 @@ If you don't already have a copy of Python on your Windows machine, you can down
 
 (https://www.python.org/downloads/windows/)
 
-Gruyere has been better tested on Python 2.7 so that is probably the choice of lease resistence.
+Gruyere has been better tested on Python 2.7 so that is probably the choice of least resistence.
 
 ### Get Gruyere
 
@@ -184,8 +184,8 @@ which brew
 ```
 which python
 ```
-* If you see a path like '/usr/bin/python', then python is installed on your system and you can skip the next step.
-* If you see nothing when you type 'which python' then copy and paste the following into a terminal:
+* If you see a path like `/usr/bin/python`, then python is installed on your system and you can skip the next step.
+* If you see nothing when you type `which python` then copy and paste the following into a terminal:
 ```
 brew install python
 ```
@@ -196,8 +196,8 @@ brew install python
 ```
 which wget
 ```
-* If you see a path like '/usr/local/bin/python', then wget is installed on your system and you can skip the next step.
-* If you see nothing when you type 'which wget' then copy and paste the following into a terminal:
+* If you see a path like `/usr/local/bin/python`, then wget is installed on your system and you can skip the next step.
+* If you see nothing when you type `which wget` then copy and paste the following into a terminal:
 ```
 brew install wget
 ```
