@@ -22,6 +22,9 @@ adversaries could be interpreted to be useful to them, and then executes
 selected measures that eliminate or reduce adversary exploitation of friendly
 critical information."
 
+In more genral sense, OpSec is the process by which we protect unclassified
+information that can be used against us.
+
 ![SECURITY RULES!](http://www.quickmeme.com/img/e0/e0ab7d30d57972802de828fe13459fb3bdac3b61496ea58988f6d4c038f32b9f.jpg "Security Rules!")
 
 That might seem like a big mouthful, but the important part of opsec right now
