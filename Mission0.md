@@ -21,6 +21,7 @@ can be observed by enemy intelligence, determines if information obtained by
 adversaries could be interpreted to be useful to them, and then executes
 selected measures that eliminate or reduce adversary exploitation of friendly
 critical information."
+
 In more genral sense, OpSec is the process by which we protect unclassified
 information that can be used against us.
 
