@@ -1,9 +1,9 @@
 # sparklesecurity
 Sparkling training missions for web security.
 
-These are being created as part of the ChickTech Code For Good Hackathon,
-as an idea for more tutorials to teach about security, since it is an
-essential part of software development.
+These are being created as a part of the ChickTech Code For Good Hackathon.
+The idea being to teach more about security by providing tutorials, since
+it is an essential part of software development.
 
 ## Resources
 
